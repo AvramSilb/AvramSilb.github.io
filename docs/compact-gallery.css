@@ -45,7 +45,7 @@ p{
 }
  #mailto a:hover{
   text-decoration: none;
-  color: rgb(82, 82, 82);
+  color: rgb(143, 143, 143);
 
 }
 
@@ -302,7 +302,7 @@ background: #ffffff;
 /* css grid gallery */
 
 .grid-1 {
-	background:ddd;
+	background:#fff;
 	-webkit-column-count:1;
 	-webkit-column-gap:10px;
 	-webkit-column-fill:auto;
@@ -316,7 +316,7 @@ background: #ffffff;
 
 .grid-item-1 {
 	display:inline-block;
-	background:#ddd;
+	background:#ffffff;
 	margin:0 0 10px;
 	padding:10px;
 	padding-bottom:5px;
@@ -330,7 +330,7 @@ background: #ffffff;
 	display:block;
 	height:1px;
 	border:0;
-	border-top:1px solid #ddd;
+	border-top:1px solid #ffffff;
 	margin:.5em 10px;
 	padding:0;
 }
