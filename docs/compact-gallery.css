@@ -1,5 +1,9 @@
 /* hero-image css styles */
 
+.navbar{
+  background-color: #000000;
+}
+
 .hero-image {
   height: 50%;
   background-position: center;
